@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  velero-backup-notification:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2024-02-26T18:52:24.521818738+01:00"
+    description: A Helm chart to send email/Slack notifications for Velero backups/restores
+    digest: c83fc82b94eeaa11d7741a1bb174f19c34ef20fb98b8d889d8e929d9678e4800
+    name: velero-backup-notification
+    urls:
+    - https://github.com/AlfDan93/Helm_Chart_Velero_Notify.git/velero-backup-notification-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-26T18:52:24.52078621+01:00"
