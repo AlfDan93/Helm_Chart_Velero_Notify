@@ -1,5 +1,5 @@
 image:
-  repository: vitobotta/velero-backup-notification
+  repository: alfdan/velero-backup-notify
   tag: v1.0.0
 
 slack:
