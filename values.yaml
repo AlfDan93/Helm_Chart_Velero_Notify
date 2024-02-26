@@ -1,6 +1,5 @@
 image:
-  repository: alfdan/velero-backup-notify
-  tag: v1.0.0
+  repository: alfdan/velero-backup-notify:1.0.0
 
 slack:
   enabled: false
