@@ -8,7 +8,7 @@ git clone https://github.com/AlfDan93/Helm_Chart_Velero_Notify.git
 ```
 cd Helm_Chart_Velero_Notify
 ```
-3. Installa Repo con helm lanciando il comando:
+3. Installa Repo con helm lanciando il comando avendo cura che il namespace sia lo stesso del server Velero:
 ```
 helm upgrade --install \ 
 velero-backup-notify \
