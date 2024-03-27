@@ -1,11 +1,14 @@
 # Helm Chart Velero Notify
 
-1. Scarica il repo
+1. Scarica il repo:
 ```
 git clone https://github.com/AlfDan93/Helm_Chart_Velero_Notify.git
 ```
-
-2. Installa Repo con helm
+2. Entrare nella folder del repo git:
+```
+cd Helm_Chart_Velero_Notify
+```
+3. Installa Repo con helm lanciando il comando:
 ```
 helm upgrade --install \ 
 velero-backup-notify \
